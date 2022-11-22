@@ -10,14 +10,14 @@
     "start": "npm run dev"
   },
   "dependencies": {
-    "bootstrap": "^4.1.0",
+    "bootstrap": "^4.3.1",
     "font-awesome": "^4.7.0",
-    "highcharts": "^6.1.0",
-    "jquery": "^3.3.1",
-    "js-beautify": "^1.7.5",
+    "highcharts": "^9.0.0",
+    "jquery": "^3.5.0",
+    "js-beautify": "^1.14.1",
     "popper.js": "^1.14.3",
-    "prismjs": "^1.14.0",
-    "vue": "^2.5.16",
+    "prismjs": "^1.27.0",
+    "vue": "^2.5.17",
     "vue-router": "^3.0.1",
     "bignumber.js": "7.2.1"
   },
